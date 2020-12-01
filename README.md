@@ -1,3 +1,3 @@
 # Movie-Booking-App
 
-An app to book seats for selected list of movies given.
+An app to book seats for the selected list of movies given.
